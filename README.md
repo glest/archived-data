@@ -1,2 +1,3 @@
 # archived-data
-artwork and sound removed from the ZG repo should be stored here
+
+Artwork and sound removed from the data repo should be stored here
